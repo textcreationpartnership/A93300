@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Sir Thomas Gresham his ghost.</title>
+         </titleStmt>
+         <extent>Approx. 14KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93300</idno><idno type="EEBO-CITATION">99862005</idno>
+  <idno type="VID">114152</idno>
+  <idno type="EEBO-PROQUEST">2248535189</idno>
+  
+            <idno type="STC">Wing S3898</idno>
+            <idno type="STC">Thomason E388_7</idno>
+            <idno type="STC">ESTC R201504</idno>
+            <idno type="PROQUEST">99862005</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99862005e"/>
+            <note>(EEBO-TCP ; phase 2, no. A93300)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114152)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 62:E388[7])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Sir Thomas Gresham his ghost.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for William Ley,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>In verse.</note>
+                  <note>With a woodcut portrait of Gresham on the title page.</note>
+                  <note>Annotation on Thomason copy: "May 19th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Gresham, Thomas, --  Sir, 1519?-1579 --  Poetry --  Early works to 1800.</term>
+               <term type="corporate_name">Gresham College --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:114152:1"/>
+            <p>Sir Thomas Gresham HIS GHOST.</p>
+            <figure>
+               <figDesc>engraving of ghost</figDesc>
+            </figure>
+            <p>
+               <hi>Printed for</hi> William Ley. 1647.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:114152:2"/>
+            <head>VITRUVIUS to the impartiall Reader.</head>
+            <opener>
+               <salute>Worthy Reader:</salute>
+            </opener>
+            <p>
+               <hi>THe consideration of these two things, imboldned me to th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> wri<g ref="char:EOLhyphen"/>ting of these few lines: Considering, first, the great accommo<g ref="char:EOLhyphen"/>dations that might have redounded unto this City, and to all men, had the good-intended Will of</hi> Londons <hi>large and bountifull Benefactor Sir</hi> Thomas Gresham <hi>been (as in conscience and equity it should have been) rightly performed, in giving his House to seven able Artists to inhabit, to exercise and teach the seven liberall Sciences; for hereby Learning might have been nourisht, Art flourish, Igno<g ref="char:EOLhyphen"/>rance abandoned, the Ignorant taught, the Artist improved, the Lear<g ref="char:EOLhyphen"/>ned established, every man profited. Secondly, considering the bad use that is made of it, the Will abused, Men deceived in their expecta<g ref="char:EOLhyphen"/>tions, the City misused, Art neglected, Ignorant rejected, and all things sleighted. Whereas they ought every day to exercise; they have brought it (I know not from what ground, but a bad custome) to be Read onely in Tearm time; whereas Sea-men and other Artists (that their more necessary businesse will not permit to be present) are abridg<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d of reaping that profit the Gift was intended for. Likewise, such men as are placed in, who (though never so able) do not the least good; for they they are so superbiously-pettish, that they wil resolve no Quaere that may advantage the Dubitour; nay, they are come to that straine, that they will doe as they list, Read what, when, how, and where they list, and not at all if they list; and indeed they have their meanes for a song.</hi>
+            </p>
+            <p>
+               <hi>Three hundred and fifty pounds</hi> per annum <hi>might be better im<g ref="char:EOLhyphen"/>ployed, unlesse a course be taken whereby things might be brought to a better passe, Exercises performed duly and constantly every day; that Men might be profited, the City pleasured, the Will performed: other<g ref="char:EOLhyphen"/>wise it must needs be a great discouragement to able and willing-har<g ref="char:EOLhyphen"/>ted men to doe like Deeds as these, lest they should have like dealing.</hi>
+            </p>
+            <p>
+               <hi>Accept with a charitable hand (whatsoever others do, I passe not) my poor indevour, being with good intention (voyd malice to any one I am <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>re) hoping that it may take effect unto the reforming and reclaiming what is amisse, and performing what was intended in that bountifull and ever-praise-deserving Gift:</hi>
+            </p>
+            <closer>
+               <salute>Farewell.</salute>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb n="3" facs="tcp:114152:2"/>
+            <head>S<seg rend="sup">r</seg> THOMAS GRESHAM'S <hi>GHOST.</hi>
+            </head>
+            <lg>
+               <l>WHat clamour's this I heare? what up-start voyce?</l>
+               <l>Why what's the matter? what makes all this noyse,</l>
+               <l>That thus me wakens? what is no place free?</l>
+               <l>Death's cal'd a Rest, but Death's no rest to me:</l>
+               <l>Though I am dead, yet I'me molested: Hark,</l>
+               <l>Who's this complaines? I'le goe (none sees, 'tis dark.)</l>
+               <l>And heare what meanes this doe; which having heard</l>
+               <l>I'le rest, voyd feare or care, nothing regard.</l>
+            </lg>
+            <lg>
+               <head>The Complaint of Sea-men and other Artists.</head>
+               <l>¶ The good old Knight Sir <hi>Thomas Gresham</hi> gave</l>
+               <l>His House (for publick good) that such as have</l>
+               <l>Desire to learne might duly there be taught:</l>
+               <l>How is't neglected how is't brought to nought?</l>
+               <l>The good old man left in his Will, that they</l>
+               <l>Should duly read their Lectures every day.</l>
+               <l>(Truly we know not, but each day each man</l>
+               <l>Should read his severall Lecture: for what can</l>
+               <l>It profit any once to heare, and when</l>
+               <l>They once have heard, They ne're shall hear agen?</l>
+               <l>But if each day each Science might be taught,</l>
+               <l>Then men might profit; otherwise it nought</l>
+               <l>Availes a man it to frequent, to hear</l>
+               <l>A many Lectur<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s, and be ne're the neer.</l>
+               <l>Like as a Scholler, if he doth not goe</l>
+               <l>Each day to Schoole continually, that so</l>
+               <l>What he this day doth learne, tomorrow he</l>
+               <pb n="4" facs="tcp:114152:3"/>
+               <l>May not forget, and ne're the better be:</l>
+               <l>If otherwise, he doth but goe to Schoole,</l>
+               <l>(As common Proverb speaks, <hi>To play the foole;</hi>)</l>
+               <l>That so all men might it frequent and learne,</l>
+               <l>That they might truly every Art discerne;</l>
+               <l>That they in time might skilfull Artists grow,</l>
+               <l>That they their right Hand from their left may know</l>
+               <l>In poynt of Art. Truly were it well us'd,</l>
+               <l>It were a Prais-deserving Gift; abus'd</l>
+               <l>It profits nought. Alas! what pitty 'tis</l>
+               <l>To see so good a Gift thus us'd amisse.</l>
+               <l>Alas! they grow so idle now, that they</l>
+               <l>Will doe but every Tearme, what every day</l>
+               <l>They ought to doe; and thus they make their paines</l>
+               <l>Of none effect, for none thereby reaps gaines.</l>
+               <l>We're ne're the better for their reading, we</l>
+               <l>When they are reading (may be) are at Sea:</l>
+               <l>But if at home we stay, they'le ne're be heard</l>
+               <l>But in Terme-time; all other times debar'd</l>
+               <l>We are from hearing; we can't alwayes stay</l>
+               <l>I'th Terme at home to heare: but if each day</l>
+               <l>Lectures were read, if we cannot to day</l>
+               <l>Attend to heare, another day we may▪</l>
+               <l>But we are ne're the better for the cost</l>
+               <l>Sir <hi>Thomas Gresham</hi> was at; all is lost.</l>
+               <l>To whom shall we complaine this to redresse?</l>
+               <l>To them? they tell us, they will read the lesse:</l>
+               <l>If to his Trustees, we may fear they will</l>
+               <l>Suffer thefe men to doe as they've done still.</l>
+               <l>Alas! the good old man is dead, or he'de</l>
+               <l>Redresse our great agrievances with speed.</l>
+               <l>Se<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>'ng it is thus, it were a pious deed,</l>
+               <l>To give this meanes for to relieve the need</l>
+               <l>Of maimed Souldiers, Widdowes, Fatherlesse,</l>
+               <l>Who for the publick good are in distresse;</l>
+               <l>So should you worthily requite their losses,</l>
+               <l>And make amends for their sustained crosses:</l>
+               <l>The cry of them is great impiety,</l>
+               <pb n="5" facs="tcp:114152:3"/>
+               <l>If not, in pitty them relieve▪ for why,</l>
+               <l>It's better to relieve them with it, then</l>
+               <l>It should be given to undeserving men.</l>
+            </lg>
+            <sp>
+               <speaker>Ghost.</speaker>
+               <lg>
+                  <l> ¶ <hi>What's this I hear? am I no more regarded?</hi>
+                  </l>
+                  <l>
+                     <hi>Am I thus (for the good I did) rewarded?</hi>
+                  </l>
+                  <l>
+                     <hi>I'le goe my selfe and seek for to redresse</hi>
+                  </l>
+                  <l>
+                     <hi>These faults: Oh! that I might find good success<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>.</hi>
+                  </l>
+               </lg>
+            </sp>
+            <lg>
+               <head>His Complaint and Request to his Trustees and Citizens.</head>
+               <lg>
+                  <l>¶ I'me <hi>Gresham's</hi> Ghost, which from the darksome Den</l>
+                  <l>Of horrid Death, am come to visit men:</l>
+                  <l>Whilest other Ghosts and Sprights securely slept,</l>
+                  <l>I from Death's pitchy Dungeon flily crept,</l>
+                  <l>That none me heard; therefore I cannot stay,</l>
+                  <l>I'le utter my complaints without delay.</l>
+               </lg>
+               <lg>
+                  <l>¶ Now I am dead, am I quite out of mind?</l>
+                  <l>What left I nothing? prov'd I so unkind</l>
+                  <l>Unto the place I lov'd so well? what then?</l>
+                  <l>Hath rigid Time thus chang'd the hearts of men?</l>
+                  <l>Are men forgetfull of those things th'admir'd?</l>
+                  <l>Or are men with too much admiring <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ir'd?</l>
+                  <l>How comes it then to passe that <hi>Gresham's</hi> Will</l>
+                  <l>Is thus perverted? some thing's extant still,</l>
+                  <l>Which might put you in mind: discharge your duty,</l>
+                  <l>And bring my former gifts to former beauty.</l>
+                  <l>'Mongst divers gifts I gave (because I lov'd</l>
+                  <l>The City) mine owne house to be improv'd</l>
+                  <l>For learned uses, that the Ignorant</l>
+                  <l>Might there be taught▪ I yeerly means did g<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>a<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </l>
+                  <l>To able men, to read the liberall Arts</l>
+                  <l>Continually: but who is't that imparts</l>
+                  <l>His skill i'th Sciences to others gaine?</l>
+                  <l>If fools they come, they fools must still remaine:</l>
+                  <l>There's nought perform'd of what I then intended;</l>
+                  <l>How little's done, and yet how much pretended?</l>
+                  <pb n="6" facs="tcp:114152:4"/>
+                  <l>Now whereas they should imitate the Bee,</l>
+                  <l>Who labours for to gather Honey, she</l>
+                  <l>Doth not it eat her selfe, but keeps in store</l>
+                  <l>For others good; or like the Cook, the more</l>
+                  <l>He dresses Meat the lesse he eats; the Meat</l>
+                  <l>He doth prepare indeed, but others eat.</l>
+                  <l>These men doe nothing lesse, their Art they keep</l>
+                  <l>Unto themselves, so none can profit reap:</l>
+                  <l>And if men come with them for to discourse,</l>
+                  <l>Their n<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>'re the better if they're ne're the worse;</l>
+                  <l>By ranglings, questions come to be dissentions;</l>
+                  <l>Men seek for profit, but they find contentions.</l>
+                  <l>They're there by me maintain'd for others good;</l>
+                  <l>But if intentions may be understood,</l>
+                  <l>By outward actions, it's for love of gaines,</l>
+                  <l>They read at all, or take that little paines</l>
+                  <l>They doe; not love to Learning, or to make</l>
+                  <l>Their Country skilfull Artists, but the sake</l>
+                  <l>Of Money them compels: I'de think my cost</l>
+                  <l>Was well bestowed, If I might not be crost</l>
+                  <l>In mine intentions; which are these, That they</l>
+                  <l>Should read their Lectures every one each day,</l>
+                  <l>And contribute that Science that they have</l>
+                  <l>Unto such men th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t doe their Science crave:</l>
+                  <l>Why then they would fulfill my first intentions,</l>
+                  <l>And men might profit get by their conventions:</l>
+                  <l>What credit would it be unto the City</l>
+                  <l>To see Art flourish? but alas what pitty</l>
+                  <l>It is to see my labour come to nought,</l>
+                  <l>My great expences thus to nothing brought.</l>
+                  <l>Truly me thinks I've heard the sad complaint</l>
+                  <l>Of Artists, who desire to learne, but can't;</l>
+                  <l>'Cause Lecture's read so seldome, onely they</l>
+                  <l>Have profit who at home at Tearm-time stay.</l>
+                  <l>All men at Tearm-time cannot Lectures heed,</l>
+                  <l>If not in Tearm-time they no Lectures read;</l>
+                  <l>Nay they will not; these are the terms they use,</l>
+                  <l>They me disparage, and my gifts abuse.</l>
+                  <pb n="7" facs="tcp:114152:4"/>
+                  <l>Truly me thinks it were more charitable,</l>
+                  <l>It to bestow upon the poor, not able</l>
+                  <l>Themselves for to maintaine, but are a charge</l>
+                  <l>Unto the City; this would be a large</l>
+                  <l>And gratefull gift unto poor maimed men,</l>
+                  <l>And unto all distressed Widdowes; then</l>
+                  <l>This would encourage each man to defend</l>
+                  <l>His Country, though it'h War his Life he end▪</l>
+                  <l>My meanes thus being dispos'd my house might be</l>
+                  <l>Made Tenements for Hospitality;</l>
+                  <l>And these seven men might doe the Church and State</l>
+                  <l>More worthy service if they'de dedicate</l>
+                  <l>Their studious labours to Divinity,</l>
+                  <l>(The Church of such men hath great need) whereby</l>
+                  <l>They'de doe more good then now they doe;</l>
+                  <l>For now their labour sum'd up, mounts but to</l>
+                  <l>A nothing▪ nought is the result of all</l>
+                  <l>Their labours; nought is all that they can call</l>
+                  <l>Of their owne gettings, not what they can doe;</l>
+                  <l>But what they doe, from thence nought doth ensue▪</l>
+                  <l>Observe this (for your good) let none that make</l>
+                  <l>The Covenant prejudiciall, it won't take</l>
+                  <l>Within that house to dwell, let them be outed,</l>
+                  <l>Let all Malignants totally be routed.</l>
+                  <l>Of all I've spoken, this is the effect,</l>
+                  <l>That you would mind, regard, and have respect</l>
+                  <l>Unto my Will; see if I there doe mention</l>
+                  <l>Any set time (but in some's apprehension)</l>
+                  <l>That they should read onely in Tearm-time; why,</l>
+                  <l>Surely they ought to read continually;</l>
+                  <l>For otherwise, if they don't read each day,</l>
+                  <l>Why should they for each day receive their pay?</l>
+                  <l>Or see if in my Will I mention make,</l>
+                  <l>That they should read in Latin; they mistake</l>
+                  <l>That think they should: it was for <hi>England's</hi> good,</l>
+                  <l>
+                     <hi>English</hi> in <hi>England</hi> is best understood.</l>
+                  <l>I doe confesse, that some here Artists are,</l>
+                  <l>But yet so pettish-stout, that all their care</l>
+                  <pb n="8" facs="tcp:114152:5"/>
+                  <l>Is for to keep all other men from gaining</l>
+                  <l>By what they have, not help men in attaining</l>
+                  <l>Their expectations; yet (I say) th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>re be</l>
+                  <l>Some men that are unfit for Teachers: see</l>
+                  <l>How these come in, it is by others Letters,</l>
+                  <l>That specifie their Art (whereas their Betters</l>
+                  <l>Both in Art and Learning wanting such writings,</l>
+                  <l>They are put by both with disgrace and slightings)</l>
+                  <l>When art lesse they enjoy their places, and</l>
+                  <l>They thus get meanes by dealing underhand;</l>
+                  <l>Therefore I think most fit that they should be</l>
+                  <l>Elected by the whole Society</l>
+                  <l>Of Mathematicks, then unquestionable,</l>
+                  <l>Those chosen men will be elected able.</l>
+                  <l>Well, all that I desire is Reformation,</l>
+                  <l>And this is all I have in expection:</l>
+                  <l>It is for all mens good (pray) do't in time,</l>
+                  <l>Knowing that opportunity's the prime</l>
+                  <l>Of humane wisdome. Time is bald behind</l>
+                  <l>(Oh! would this were imprinted in your mind!)</l>
+                  <l>Take him by's fore-top, opportunity;</l>
+                  <l>In time apply a salve, a remedy,</l>
+                  <l>Before the sore be past a cure, and then</l>
+                  <l>To cure that wound is past the power of men.</l>
+                  <l>Mark well what I have spoken, don't delay</l>
+                  <l>To mend the Breach, while mend the Breach you may.</l>
+                  <l>Oh! would my words with you effect might take!</l>
+                  <l>Oh! would you would my words successive make!</l>
+                  <l>I have much more to say, but that I feare,</l>
+                  <l>If I should stay, that some Ghost would me heare,</l>
+                  <l>And me surprize, for breaking forth the Den</l>
+                  <l>Of Death, and so I ne're come forth agen:</l>
+                  <l>I must be gone, alas! I dare not stay,</l>
+                  <l>The light begins to shine, I must away.</l>
+               </lg>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
